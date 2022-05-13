@@ -1,5 +1,4 @@
 # Tetris in C
-**TITLE:** TETRIS IN C\
 **AUTHOR:** Igor Stefański\
 **DATE:** April 2020\
 **DESCRIPTION:**\
